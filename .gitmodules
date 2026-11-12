@@ -1,0 +1,3 @@
+[submodule "KernelSU"]
+	path = KernelSU
+	url = https://github.com/phamhiep2506/KernelSU
